@@ -15,7 +15,7 @@ permissions:
 jobs:
   build:
 
-    runs-on: -latest
+    runs-on: window-latest
 
     steps:
     - uses: actions/checkout@v3
